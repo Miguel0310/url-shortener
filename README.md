@@ -11,7 +11,7 @@ O projeto se trata de um sistema de encurtamento de URLs sem uso de serviços ex
 - PostgreSQL
 - Vite
 
-## Requisitos Fundamentais:
+## Requisitos:
 - [ ] Construir um serviço de encurtamento de URLs
 - [ ] Cadastro de usuário básico (Cadastro e Login);
 - [ ] Usuários podem criar urls de forma anônima (sem fazer login);
