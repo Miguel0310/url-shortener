@@ -2,6 +2,7 @@
 O projeto se trata de um sistema de encurtamento de URLs sem uso de serviços externos, é possível usa-lo sem a necessidade de criar um cadastro e ter que pagar posteriormente.
 
 ## Stack utilizada
+- Docker
 - Laravel + PHP
 - Axios
 - InertiaJS
