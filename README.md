@@ -1,3 +1,16 @@
+# Sobre
+O projeto se trata de um sistema de encurtamento de URLs sem uso de serviços externos, é possível usa-lo sem a necessidade de criar um cadastro e ter que pagar posteriormente.
+
+## Stack utilizada
+- Laravel + PHP
+- Axios
+- InertiaJS
+- VueJS
+- TailwindCSS
+- PostCSS
+- PostgreSQL
+- Vite
+
 ## Requisitos Fundamentais:
 - [ ] Construir um serviço de encurtamento de URLs
 - [ ] Cadastro de usuário básico (Cadastro e Login);
